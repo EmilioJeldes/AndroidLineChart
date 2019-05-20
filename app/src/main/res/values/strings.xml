@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LineChart Application</string>
+    <string name="btn_show_line_chart">Show Line Chart</string>
+    <string name="btn_show_bar_chart">Show Bar chart</string>
+</resources>
